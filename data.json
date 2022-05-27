@@ -1,0 +1,19 @@
+{
+
+    "header" : {
+        "title" : "JSON Resume Challenge",
+        "name" : "Jeyabal Balamuthu",
+        "contact" : "jeyabal1993@gmail.com"
+    },
+
+    "body" : [
+        {
+            "sectionName" : "Skills"
+        }
+
+
+    ] 
+
+
+
+}
