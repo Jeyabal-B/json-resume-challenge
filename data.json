@@ -8,12 +8,45 @@
 
     "body" : [
         {
-            "sectionName" : "Skills"
+            "sectionName" : "Skills",
+            "sectionDetails" : [{
+                        "itemName" : "HTML",
+                        "itemValue" : "90%"
+                    },
+                    {
+                        "itemName" : "CSS",
+                        "itemValue" : "90%"
+                    }
+            ]
+        },
+        {
+            "sectionName" : "Education",
+            "sectionDetails" : [{
+                        "itemName" : "B.E. in ECE",
+                        "itemValue" : "Dr.Sivanthi Aditanar College of Engineering, Tiruchendur"
+                    }
+            ]
+        },
+        {
+            "sectionName" : "Work Experience",
+            "sectionDetails" : [{
+                        "itemName" : "IT Analyst",
+                        "itemValue" : "Tata Consultancy Services, Chennai"
+                    }
+            ]
+        },
+        {
+            "sectionName" : "Projects"
+
+        },
+        {
+            "sectionName" : "Awards",
+            "sectionDetails" : [{
+                        "itemName" : "Star of the Month",
+                        "itemValue" : "Tata Consultancy Services, Chennai"
+                    }
+            ]
         }
-
-
-    ] 
-
-
+    ]
 
 }
